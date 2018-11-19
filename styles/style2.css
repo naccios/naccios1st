@@ -1,13 +1,13 @@
 h1 {
-    color: rgb(0, 255, 0);
+    color: rgb(187, 255, 0);
     background-color: yellow;
     border: 1px solid black;
   }
   
   p {
-    color: red;
+    color: rgb(38, 0, 255);
   }
-  
+
   p, li {
     text-decoration: underline;
   }

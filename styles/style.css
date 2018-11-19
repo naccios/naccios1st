@@ -29,7 +29,7 @@ p, li {
   }
 
 a:hover {
-    color: cyan;
+    color: rgb(60, 71, 71);
     width: 20px;
     border: 1px solid yellowgreen;
     font-family: 'Open Sans', sans-serif;
