@@ -38,9 +38,4 @@ function setUserName() {
     myHeading.textContent = 'Mozilla is cool??, ' + storedName;
   }
   
-  var myButton2 = document.querySelector('button');
-
-  myButton2.onclick = function() {
-    setUserName();
-  }
 
